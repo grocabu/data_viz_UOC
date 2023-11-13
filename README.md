@@ -17,3 +17,10 @@ Dades extretes de la plataforma Kaggle al següent enllaç:
 
 https://www.kaggle.com/datasets/giovamata/airlinedelaycauses
 
+
+# Marimekko Chart
+
+Dades extretes del portal Ourworldindata al següent enllaç
+
+https://ourworldindata.org/energy
+
