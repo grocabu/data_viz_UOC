@@ -34,5 +34,8 @@ https://ourworldindata.org/energy
 * Les dades han estat filtrades per continents i s'ha obtingut el percentatge
 
 
+## Codi i datasets
 
 *** L'arxiu visualització.html conté el codi utilitzat per l'el·laboració del Marimekko Chart i l'histograma respectivament. 
+
+*** Els datasets per elaborar el Marimekko Chart i el Coropleth map han estat modificats, s'adjunten a la carpeta datasets. El dataset DelayedFlights no ha patit cap modificació i està disponible a l'enllaç Kaggle proporcionat
