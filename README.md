@@ -26,7 +26,13 @@ https://www.kaggle.com/datasets/giovamata/airlinedelaycauses
 
 La visualització s'ha realitzat mitjançant R i correspon a la imatge marimekko_chart3.png adjunta al repostori. 
 
-Dades extretes del portal Ourworldindata al següent enllaç
+Dades extretes del portal Ourworldindata al següent enllaç:
 
 https://ourworldindata.org/energy
 
+
+* Les dades han estat filtrades per continents i s'ha obtingut el percentatge
+
+
+
+*** L'arxiu visualització.html conté el codi utilitzat per l'el·laboració del Marimekko Chart i l'histograma respectivament. 
